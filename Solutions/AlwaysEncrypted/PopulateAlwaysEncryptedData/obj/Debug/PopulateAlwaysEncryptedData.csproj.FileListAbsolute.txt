@@ -1,0 +1,10 @@
+C:\temp\SAMPLES\sql-server-samples-master\samples\databases\wide-world-importers\sample-scripts\always-encrypted\PopulateAlwaysEncryptedData\bin\Debug\PopulateAlwaysEncryptedData.exe.config
+C:\temp\SAMPLES\sql-server-samples-master\samples\databases\wide-world-importers\sample-scripts\always-encrypted\PopulateAlwaysEncryptedData\bin\Debug\PopulateAlwaysEncryptedData.exe
+C:\temp\SAMPLES\sql-server-samples-master\samples\databases\wide-world-importers\sample-scripts\always-encrypted\PopulateAlwaysEncryptedData\bin\Debug\PopulateAlwaysEncryptedData.pdb
+C:\temp\SAMPLES\sql-server-samples-master\samples\databases\wide-world-importers\sample-scripts\always-encrypted\PopulateAlwaysEncryptedData\obj\Debug\PopulateAlwaysEncryptedData.csprojResolveAssemblyReference.cache
+C:\temp\SAMPLES\sql-server-samples-master\samples\databases\wide-world-importers\sample-scripts\always-encrypted\PopulateAlwaysEncryptedData\obj\Debug\PopulateAlwaysEncryptedData.PopulateAlwaysEncryptedDataMain.resources
+C:\temp\SAMPLES\sql-server-samples-master\samples\databases\wide-world-importers\sample-scripts\always-encrypted\PopulateAlwaysEncryptedData\obj\Debug\PopulateAlwaysEncryptedData.Properties.Resources.resources
+C:\temp\SAMPLES\sql-server-samples-master\samples\databases\wide-world-importers\sample-scripts\always-encrypted\PopulateAlwaysEncryptedData\obj\Debug\PopulateAlwaysEncryptedData.csproj.GenerateResource.Cache
+C:\temp\SAMPLES\sql-server-samples-master\samples\databases\wide-world-importers\sample-scripts\always-encrypted\PopulateAlwaysEncryptedData\obj\Debug\PopulateAlwaysEncryptedData.csproj.CoreCompileInputs.cache
+C:\temp\SAMPLES\sql-server-samples-master\samples\databases\wide-world-importers\sample-scripts\always-encrypted\PopulateAlwaysEncryptedData\obj\Debug\PopulateAlwaysEncryptedData.exe
+C:\temp\SAMPLES\sql-server-samples-master\samples\databases\wide-world-importers\sample-scripts\always-encrypted\PopulateAlwaysEncryptedData\obj\Debug\PopulateAlwaysEncryptedData.pdb
